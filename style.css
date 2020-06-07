@@ -1,0 +1,21 @@
+body{
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: black;
+	/*color: #fff;*/
+	
+}
+
+#clock{
+	flex: 0 0 80%;
+	font-family: 'Orbitron', sans-serif;
+	font-size: 40px;
+	color: green;
+	text-align: center;
+	border: 3px solid green;
+	box-shadow: 5px 5px 5px 5px white;
+	padding: 10px 0px;
+
+}
